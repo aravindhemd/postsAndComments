@@ -1,0 +1,13 @@
+.comment-contents{
+    margin-left: 1%;
+    border-style: outset;
+    height: fit-content;
+}
+
+.comment-content{
+    margin-left: 1%;
+}
+
+.comment-text{
+    /* line-height: 0px; */
+}
